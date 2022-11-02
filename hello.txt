@@ -4,5 +4,5 @@ hello git
 hello git
 hello git
 hello git
-change 1
 change 2 runinng
+fix two bug === find a new bug
